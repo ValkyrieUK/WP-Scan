@@ -1,1 +1,1 @@
-ruby wpscan.rb --url PUT_URL_HERE --wordlist darkc0de.lst --threads 50
+ruby wpscan.rb --url http://178.62.21.173/ --wordlist darkc0de.lst --threads 50
